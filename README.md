@@ -1,4 +1,6 @@
-<img src="pack.png" width="240">
+<p align="center">
+  <img width="240" height="240" src="pack.png">
+</p>
 
 # p_heal
 Simple and easy healing command!
