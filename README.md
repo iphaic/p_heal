@@ -5,6 +5,8 @@
 # p_heal
 Simple and easy healing command!
 
+This was created in Minecraft version **24w13a** but should work in 1.20.4
+
 ## How to use
 `/scoreboard players set @s p_heal <integer heal amount>`
 
