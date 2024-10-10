@@ -12,6 +12,3 @@ This was created in Minecraft version **24w13a** but should work in 1.20.4 or fo
 
 ## Example
 `/scoreboard players set @s p_heal 3`
-
-## Discord
-https://discord.gg/sTbKDDjZ7e
